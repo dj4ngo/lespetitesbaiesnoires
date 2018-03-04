@@ -1,0 +1,15 @@
+---
+- title: About
+  url: site.html#about
+
+- title: Posts
+  url: posts.html
+
+- title: Services
+  url: site.html#services
+
+- title: Portfolio
+  url: site.html#portfolio
+
+- title: Contact
+  url: site.html#contact

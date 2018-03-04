@@ -1,0 +1,14 @@
+<section id="posts" class="bg-primary">
+    <img class="img-top" src="img/posts.jpg" >	
+    <div class="container">
+        <div class="row">
+            {% for post in site.posts %}
+	    <div>
+	        <h2>{{ post.title }}</h2>
+	        {{ post }}
+            </div>
+            <hr class="primary">
+            {% endfor %}
+        </div>
+    </div>
+</section>
