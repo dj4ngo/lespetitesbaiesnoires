@@ -1,15 +1,21 @@
 ---
-- title: About
-  url: site.html#about
+- title: Accueil
+  url: site.html#accueil
 
-- title: Posts
-  url: posts.html
+- title: Domaine
+  url: site.html#domaine
 
-- title: Services
-  url: site.html#services
+- title: Vinification
+  url: site.html#vinification
 
-- title: Portfolio
-  url: site.html#portfolio
+- title: Les vins
+  url: site.html#lesvins
+
+- title: Photos
+  url: photos.html
+
+- title: Actualités
+  url: actualites.html
 
 - title: Contact
-  url: site.html#contact
+  url: contact.html
